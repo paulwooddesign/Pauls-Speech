@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Pauls speech",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "paulwooddesign",
+    "githubRepository": "Pauls-Speech"
+  }
+}
